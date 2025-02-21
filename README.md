@@ -1,0 +1,1 @@
+- data sourced from a community [ACNH Spreadsheet](https://docs.google.com/spreadsheets/d/13d_LAJPlxMa_DubPTuirkIV4DERBMXbrWQsmSh8ReK4/edit?gid=1777959953#gid=1777959953)
