@@ -1,41 +1,41 @@
 #,Name,Sell,Shadow,Movement Speed,Total Catches to Unlock,Spawn Rates,NH Jan,NH Feb,NH Mar,NH Apr,NH May,NH Jun,NH Jul,NH Aug,NH Sep,NH Oct,NH Nov,NH Dec,SH Jan,SH Feb,SH Mar,SH Apr,SH May,SH Jun,SH Jul,SH Aug,SH Sep,SH Oct,SH Nov,SH Dec,Size,Surface
-17,abalone,2000,Medium,Medium,20,1–6,4 PM – 9 AM,NA,NA,NA,NA,4 PM – 9 AM,4 PM – 9 AM,4 PM – 9 AM,4 PM – 9 AM,4 PM – 9 AM,4 PM – 9 AM,4 PM – 9 AM,4 PM – 9 AM,4 PM – 9 AM,4 PM – 9 AM,4 PM – 9 AM,4 PM – 9 AM,4 PM – 9 AM,4 PM – 9 AM,NA,NA,NA,NA,4 PM – 9 AM,1x1,Yes
-28,acorn barnacle,600,X-Small,Stationary,0,6–11,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,1x1,Yes
-19,chambered nautilus,1800,Medium,Medium,20,3–5,NA,NA,4 PM – 9 AM,4 PM – 9 AM,4 PM – 9 AM,4 PM – 9 AM,NA,NA,4 PM – 9 AM,4 PM – 9 AM,4 PM – 9 AM,NA,NA,NA,4 PM – 9 AM,4 PM – 9 AM,4 PM – 9 AM,NA,NA,NA,4 PM – 9 AM,4 PM – 9 AM,4 PM – 9 AM,4 PM – 9 AM,1x1,Yes
-25,Dungeness crab,1900,Medium,Medium,20,3–5,All day,All day,All day,All day,All day,NA,NA,NA,NA,NA,All day,All day,NA,NA,NA,NA,All day,All day,All day,All day,All day,All day,All day,NA,1x1,Yes
-23,firefly squid,1400,X-Small,Slow,0,6,NA,NA,9 PM – 4 AM,9 PM – 4 AM,9 PM – 4 AM,9 PM – 4 AM,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9 PM – 4 AM,9 PM – 4 AM,9 PM – 4 AM,9 PM – 4 AM,1x1,Yes
-39,flatworm,700,X-Small,Very slow,0,5–8,NA,NA,NA,NA,NA,NA,NA,4 PM – 9 AM,4 PM – 9 AM,NA,NA,NA,NA,4 PM – 9 AM,4 PM – 9 AM,NA,NA,NA,NA,NA,NA,NA,NA,NA,1x1,No
-24,gazami crab,2200,Medium,Medium,20,2–5,NA,NA,NA,NA,NA,All day,All day,All day,All day,All day,All day,NA,All day,All day,All day,All day,All day,NA,NA,NA,NA,NA,NA,All day,1x1,Yes
-35,giant isopod,12000,Medium,Very fast,80,1,NA,NA,NA,NA,NA,NA,9 AM – 4 PM; 9 PM – 4 AM,9 AM – 4 PM; 9 PM – 4 AM,9 AM – 4 PM; 9 PM – 4 AM,9 AM – 4 PM; 9 PM – 4 AM,NA,NA,9 AM – 4 PM; 9 PM – 4 AM,9 AM – 4 PM; 9 PM – 4 AM,9 AM – 4 PM; 9 PM – 4 AM,9 AM – 4 PM; 9 PM – 4 AM,NA,NA,NA,NA,NA,NA,NA,NA,1x1,No
-18,gigas giant clam,15000,X-Large,Very fast,80,1,NA,NA,NA,NA,All day,All day,All day,All day,All day,NA,NA,NA,All day,All day,All day,NA,NA,NA,NA,NA,NA,NA,All day,All day,2x1,Yes
-36,horseshoe crab,2500,Medium,Medium,20,3–5,NA,NA,NA,NA,NA,NA,9 PM – 4 AM,9 PM – 4 AM,9 PM – 4 AM,NA,NA,NA,9 PM – 4 AM,9 PM – 4 AM,9 PM – 4 AM,NA,NA,NA,NA,NA,NA,NA,NA,NA,1x1,No
-34,lobster,4500,Large,Fast,40,1–2,All day,NA,NA,All day,All day,All day,NA,NA,NA,NA,NA,All day,NA,NA,NA,NA,NA,All day,All day,NA,NA,All day,All day,All day,1x1,Yes
-32,mantis shrimp,2500,Small,Medium,20,2–8,4 PM – 9 AM,4 PM – 9 AM,4 PM – 9 AM,4 PM – 9 AM,4 PM – 9 AM,4 PM – 9 AM,4 PM – 9 AM,4 PM – 9 AM,4 PM – 9 AM,4 PM – 9 AM,4 PM – 9 AM,4 PM – 9 AM,4 PM – 9 AM,4 PM – 9 AM,4 PM – 9 AM,4 PM – 9 AM,4 PM – 9 AM,4 PM – 9 AM,4 PM – 9 AM,4 PM – 9 AM,4 PM – 9 AM,4 PM – 9 AM,4 PM – 9 AM,4 PM – 9 AM,1x1,Yes
-9,moon jellyfish,600,Small,Very slow,0,4–12,NA,NA,NA,NA,NA,NA,All day,All day,All day,NA,NA,NA,All day,All day,All day,NA,NA,NA,NA,NA,NA,NA,NA,NA,1x1,Yes
-12,mussel,1500,Small,Slow,0,3–8,NA,NA,NA,NA,NA,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,NA,NA,NA,NA,NA,All day,1x1,No
-20,octopus,1200,Medium,Slow,0,2–8,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,1x1,Yes
-13,oyster,1100,Small,Slow,0,5–12,All day,All day,NA,NA,NA,NA,NA,NA,All day,All day,All day,All day,NA,NA,All day,All day,All day,All day,All day,All day,NA,NA,NA,NA,1x1,No
-11,pearl oyster,2800,Small,Medium,20,2–4,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,1x1,No
-27,red king crab,8000,Large,Very fast,80,1–2,All day,All day,All day,NA,NA,NA,NA,NA,NA,NA,All day,All day,NA,NA,NA,NA,All day,All day,All day,All day,All day,NA,NA,NA,2x1,Yes
-14,scallop,1200,Medium,Slow,5,6–8,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,1x1,Yes
-8,sea anemone,500,Large,Stationary,0,3–14,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,1x1,No
-3,sea cucumber,500,Medium,Very slow,0,4–12,All day,All day,All day,All day,NA,NA,NA,NA,NA,NA,All day,All day,NA,NA,NA,NA,All day,All day,All day,All day,All day,All day,NA,NA,1x1,Yes
-2,sea grapes,900,Small,Stationary,0,4–12,NA,NA,NA,NA,NA,All day,All day,All day,All day,NA,NA,NA,All day,All day,All day,NA,NA,NA,NA,NA,NA,NA,NA,All day,1x1,No
-4,sea pig,10000,Small,Very fast,80,1,4 PM – 9 AM,4 PM – 9 AM,NA,NA,NA,NA,NA,NA,NA,NA,4 PM – 9 AM,4 PM – 9 AM,NA,NA,NA,NA,4 PM – 9 AM,4 PM – 9 AM,4 PM – 9 AM,4 PM – 9 AM,NA,NA,NA,NA,1x1,Yes
-37,sea pineapple,1500,Small,Slow,0,2–6,NA,NA,NA,All day,All day,All day,All day,All day,NA,NA,NA,NA,All day,All day,NA,NA,NA,NA,NA,NA,NA,All day,All day,All day,1x1,Yes
-10,sea slug,600,X-Small,Very slow,0,1–12,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,1x1,No
-5,sea star,500,Small,Very slow,0,4–10,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,1x1,No
-6,sea urchin,1700,Small,Slow,0,2–7,NA,NA,NA,NA,All day,All day,All day,All day,All day,NA,NA,NA,All day,All day,All day,NA,NA,NA,NA,NA,NA,NA,All day,All day,1x1,No
-1,seaweed,600,Large,Stationary,0,3–14,All day,All day,All day,All day,All day,All day,All day,NA,NA,All day,All day,All day,All day,NA,NA,All day,All day,All day,All day,All day,All day,All day,All day,All day,1x1,No
-7,slate pencil urchin,2000,Medium,Medium,20,3–4,NA,NA,NA,NA,4 PM – 9 AM,4 PM – 9 AM,4 PM – 9 AM,4 PM – 9 AM,4 PM – 9 AM,NA,NA,NA,4 PM – 9 AM,4 PM – 9 AM,4 PM – 9 AM,NA,NA,NA,NA,NA,NA,NA,4 PM – 9 AM,4 PM – 9 AM,1x1,Yes
-26,snow crab,6000,Large,Fast,40,1–3,All day,All day,All day,All day,NA,NA,NA,NA,NA,NA,All day,All day,NA,NA,NA,NA,All day,All day,All day,All day,All day,All day,NA,NA,1x1,No
-29,spider crab,12000,X-Large,Very fast,80,1–2,NA,NA,All day,All day,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,All day,All day,NA,NA,2x2,No
-33,spiny lobster,5000,Large,Fast,40,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,9 PM – 4 AM,9 PM – 4 AM,9 PM – 4 AM,NA,NA,NA,9 PM – 4 AM,9 PM – 4 AM,9 PM – 4 AM,NA,NA,NA,NA,NA,NA,1x1,No
-38,spotted garden eel,1100,Small,Slow,0,6–8,NA,NA,NA,NA,4 AM – 9 PM,4 AM – 9 PM,4 AM – 9 PM,4 AM – 9 PM,4 AM – 9 PM,4 AM – 9 PM,NA,NA,4 AM – 9 PM,4 AM – 9 PM,4 AM – 9 PM,4 AM – 9 PM,NA,NA,NA,NA,NA,NA,4 AM – 9 PM,4 AM – 9 PM,1x1,Yes
-31,sweet shrimp,1400,Small,Slow,0,3–12,4 PM – 9 AM,4 PM – 9 AM,NA,NA,NA,NA,NA,NA,4 PM – 9 AM,4 PM – 9 AM,4 PM – 9 AM,4 PM – 9 AM,NA,NA,4 PM – 9 AM,4 PM – 9 AM,4 PM – 9 AM,4 PM – 9 AM,4 PM – 9 AM,4 PM – 9 AM,NA,NA,NA,NA,1x1,No
-30,tiger prawn,3000,Small,Medium,20,1–4,NA,NA,NA,NA,NA,4 PM – 9 AM,4 PM – 9 AM,4 PM – 9 AM,4 PM – 9 AM,NA,NA,NA,4 PM – 9 AM,4 PM – 9 AM,4 PM – 9 AM,NA,NA,NA,NA,NA,NA,NA,NA,4 PM – 9 AM,1x1,Yes
-16,turban shell,1000,Small,Slow,0,2–10,NA,NA,All day,All day,All day,NA,NA,NA,All day,All day,All day,All day,NA,NA,All day,All day,All day,All day,NA,NA,All day,All day,All day,NA,1x1,No
-21,umbrella octopus,6000,Small,Fast,40,1–3,NA,NA,All day,All day,All day,NA,NA,NA,All day,All day,All day,NA,NA,NA,All day,All day,All day,NA,NA,NA,All day,All day,All day,NA,1x1,No
-22,vampire squid,10000,Medium,Very fast,80,1,NA,NA,NA,NA,4 PM – 9 AM,4 PM – 9 AM,4 PM – 9 AM,4 PM – 9 AM,NA,NA,NA,NA,4 PM – 9 AM,4 PM – 9 AM,NA,NA,NA,NA,NA,NA,NA,NA,4 PM – 9 AM,4 PM – 9 AM,1x1,No
-40,Venus' flower basket,5000,Medium,Fast,40,1–3,All day,All day,NA,NA,NA,NA,NA,NA,NA,All day,All day,All day,NA,NA,NA,All day,All day,All day,All day,All day,NA,NA,NA,NA,1x1,Yes
-15,whelk,1000,Small,Slow,0,1–8,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,All day,1x1,Yes
+17,abalone,2000,Medium,Medium,20,1–6,16-9,NA,NA,NA,NA,16-9,16-9,16-9,16-9,16-9,16-9,16-9,16-9,16-9,16-9,16-9,16-9,16-9,16-9,NA,NA,NA,NA,16-9,1x1,Yes
+28,acorn barnacle,600,X-Small,Stationary,0,6–11,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,1x1,Yes
+19,chambered nautilus,1800,Medium,Medium,20,3–5,NA,NA,16-9,16-9,16-9,16-9,NA,NA,16-9,16-9,16-9,NA,NA,NA,16-9,16-9,16-9,NA,NA,NA,16-9,16-9,16-9,16-9,1x1,Yes
+25,Dungeness crab,1900,Medium,Medium,20,3–5,All_day,All_day,All_day,All_day,All_day,NA,NA,NA,NA,NA,All_day,All_day,NA,NA,NA,NA,All_day,All_day,All_day,All_day,All_day,All_day,All_day,NA,1x1,Yes
+23,firefly squid,1400,X-Small,Slow,0,6,NA,NA,21-4,21-4,21-4,21-4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,21-4,21-4,21-4,21-4,1x1,Yes
+39,flatworm,700,X-Small,Very slow,0,5–8,NA,NA,NA,NA,NA,NA,NA,16-9,16-9,NA,NA,NA,NA,16-9,16-9,NA,NA,NA,NA,NA,NA,NA,NA,NA,1x1,No
+24,gazami crab,2200,Medium,Medium,20,2–5,NA,NA,NA,NA,NA,All_day,All_day,All_day,All_day,All_day,All_day,NA,All_day,All_day,All_day,All_day,All_day,NA,NA,NA,NA,NA,NA,All_day,1x1,Yes
+35,giant isopod,12000,Medium,Very fast,80,1,NA,NA,NA,NA,NA,NA,9-16,21-4,9-16,21-4,9-16,21-4,9-16,21-4,NA,NA,9-16,21-4,9-16,21-4,9-16,21-4,9-16,21-4,1x1,No
+18,gigas giant clam,15000,X-Large,Very fast,80,1,NA,NA,NA,NA,All_day,All_day,All_day,All_day,All_day,NA,NA,NA,All_day,All_day,All_day,NA,NA,NA,NA,NA,NA,NA,All_day,All_day,2x1,Yes
+36,horseshoe crab,2500,Medium,Medium,20,3–5,NA,NA,NA,NA,NA,NA,21-4,21-4,21-4,NA,NA,NA,21-4,21-4,21-4,NA,NA,NA,NA,NA,NA,NA,NA,NA,1x1,No
+34,lobster,4500,Large,Fast,40,1–2,All_day,NA,NA,All_day,All_day,All_day,NA,NA,NA,NA,NA,All_day,NA,NA,NA,NA,NA,All_day,All_day,NA,NA,All_day,All_day,All_day,1x1,Yes
+32,mantis shrimp,2500,Small,Medium,20,2–8,16-9,16-9,16-9,16-9,16-9,16-9,16-9,16-9,16-9,16-9,16-9,16-9,16-9,16-9,16-9,16-9,16-9,16-9,16-9,16-9,16-9,16-9,16-9,16-9,1x1,Yes
+9,moon jellyfish,600,Small,Very slow,0,4–12,NA,NA,NA,NA,NA,NA,All_day,All_day,All_day,NA,NA,NA,All_day,All_day,All_day,NA,NA,NA,NA,NA,NA,NA,NA,NA,1x1,Yes
+12,mussel,1500,Small,Slow,0,3–8,NA,NA,NA,NA,NA,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,NA,NA,NA,NA,NA,All_day,1x1,No
+20,octopus,1200,Medium,Slow,0,2–8,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,1x1,Yes
+13,oyster,1100,Small,Slow,0,5–12,All_day,All_day,NA,NA,NA,NA,NA,NA,All_day,All_day,All_day,All_day,NA,NA,All_day,All_day,All_day,All_day,All_day,All_day,NA,NA,NA,NA,1x1,No
+11,pearl oyster,2800,Small,Medium,20,2–4,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,1x1,No
+27,red king crab,8000,Large,Very fast,80,1–2,All_day,All_day,All_day,NA,NA,NA,NA,NA,NA,NA,All_day,All_day,NA,NA,NA,NA,All_day,All_day,All_day,All_day,All_day,NA,NA,NA,2x1,Yes
+14,scallop,1200,Medium,Slow,5,6–8,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,1x1,Yes
+8,sea anemone,500,Large,Stationary,0,3–14,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,1x1,No
+3,sea cucumber,500,Medium,Very slow,0,4–12,All_day,All_day,All_day,All_day,NA,NA,NA,NA,NA,NA,All_day,All_day,NA,NA,NA,NA,All_day,All_day,All_day,All_day,All_day,All_day,NA,NA,1x1,Yes
+2,sea grapes,900,Small,Stationary,0,4–12,NA,NA,NA,NA,NA,All_day,All_day,All_day,All_day,NA,NA,NA,All_day,All_day,All_day,NA,NA,NA,NA,NA,NA,NA,NA,All_day,1x1,No
+4,sea pig,10000,Small,Very fast,80,1,16-9,16-9,NA,NA,NA,NA,NA,NA,NA,NA,16-9,16-9,NA,NA,NA,NA,16-9,16-9,16-9,16-9,NA,NA,NA,NA,1x1,Yes
+37,sea pineapple,1500,Small,Slow,0,2–6,NA,NA,NA,All_day,All_day,All_day,All_day,All_day,NA,NA,NA,NA,All_day,All_day,NA,NA,NA,NA,NA,NA,NA,All_day,All_day,All_day,1x1,Yes
+10,sea slug,600,X-Small,Very slow,0,1–12,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,1x1,No
+5,sea star,500,Small,Very slow,0,4–10,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,1x1,No
+6,sea urchin,1700,Small,Slow,0,2–7,NA,NA,NA,NA,All_day,All_day,All_day,All_day,All_day,NA,NA,NA,All_day,All_day,All_day,NA,NA,NA,NA,NA,NA,NA,All_day,All_day,1x1,No
+1,seaweed,600,Large,Stationary,0,3–14,All_day,All_day,All_day,All_day,All_day,All_day,All_day,NA,NA,All_day,All_day,All_day,All_day,NA,NA,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,1x1,No
+7,slate pencil urchin,2000,Medium,Medium,20,3–4,NA,NA,NA,NA,16-9,16-9,16-9,16-9,16-9,NA,NA,NA,16-9,16-9,16-9,NA,NA,NA,NA,NA,NA,NA,16-9,16-9,1x1,Yes
+26,snow crab,6000,Large,Fast,40,1–3,All_day,All_day,All_day,All_day,NA,NA,NA,NA,NA,NA,All_day,All_day,NA,NA,NA,NA,All_day,All_day,All_day,All_day,All_day,All_day,NA,NA,1x1,No
+29,spider crab,12000,X-Large,Very fast,80,1–2,NA,NA,All_day,All_day,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,All_day,All_day,NA,NA,2x2,No
+33,spiny lobster,5000,Large,Fast,40,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,21-4,21-4,21-4,NA,NA,NA,21-4,21-4,21-4,NA,NA,NA,NA,NA,NA,1x1,No
+38,spotted garden eel,1100,Small,Slow,0,6–8,NA,NA,NA,NA,4-21,4-21,4-21,4-21,4-21,4-21,NA,NA,4-21,4-21,4-21,4-21,NA,NA,NA,NA,NA,NA,4-21,4-21,1x1,Yes
+31,sweet shrimp,1400,Small,Slow,0,3–12,16-9,16-9,NA,NA,NA,NA,NA,NA,16-9,16-9,16-9,16-9,NA,NA,16-9,16-9,16-9,16-9,16-9,16-9,NA,NA,NA,NA,1x1,No
+30,tiger prawn,3000,Small,Medium,20,1–4,NA,NA,NA,NA,NA,16-9,16-9,16-9,16-9,NA,NA,NA,16-9,16-9,16-9,NA,NA,NA,NA,NA,NA,NA,NA,16-9,1x1,Yes
+16,turban shell,1000,Small,Slow,0,2–10,NA,NA,All_day,All_day,All_day,NA,NA,NA,All_day,All_day,All_day,All_day,NA,NA,All_day,All_day,All_day,All_day,NA,NA,All_day,All_day,All_day,NA,1x1,No
+21,umbrella octopus,6000,Small,Fast,40,1–3,NA,NA,All_day,All_day,All_day,NA,NA,NA,All_day,All_day,All_day,NA,NA,NA,All_day,All_day,All_day,NA,NA,NA,All_day,All_day,All_day,NA,1x1,No
+22,vampire squid,10000,Medium,Very fast,80,1,NA,NA,NA,NA,16-9,16-9,16-9,16-9,NA,NA,NA,NA,16-9,16-9,NA,NA,NA,NA,NA,NA,NA,NA,16-9,16-9,1x1,No
+40,Venus' flower basket,5000,Medium,Fast,40,1–3,All_day,All_day,NA,NA,NA,NA,NA,NA,NA,All_day,All_day,All_day,NA,NA,NA,All_day,All_day,All_day,All_day,All_day,NA,NA,NA,NA,1x1,Yes
+15,whelk,1000,Small,Slow,0,1–8,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,All_day,1x1,Yes
