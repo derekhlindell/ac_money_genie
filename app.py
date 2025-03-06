@@ -5,11 +5,19 @@ import pandas as pd
 from datetime import datetime
 from settings import *
 
-# import in the data
-insects = pd.read_csv("acnh_insect_data.csv")
-fish = pd.read_csv("acnh_fish_data.csv")
-sea_creatures = pd.read_csv("acnh_sea_creature_data.csv")
+# app that gives you the best options for making money in your current time for ACNH
 
+# first window is setup
+# gather hemisphere
+# automatically gather current month and time
+def setup():
+    # import in the data
+    insects = pd.read_csv("acnh_insect_data.csv")
+    fish = pd.read_csv("acnh_fish_data.csv")
+    sea_creatures = pd.read_csv("acnh_sea_creature_data.csv")
+    return insects, fish, sea_creatures
+
+def main():
 window = tk.Tk()
 window.geometry('900x800')
 window.title('ACNH Money Genie')
